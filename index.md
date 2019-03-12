@@ -10,7 +10,7 @@ body, html {
 }
 .bgimg {
     background-position: center;
-    background-size: cover;
+    background-size: reactive;
     background-image: url("w3images/coffelaptop.jpeg");
     min-height: 75%;
 }
