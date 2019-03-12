@@ -14,7 +14,9 @@ body, html {
     background-image: url("w3images/coffelaptop.jpeg");
     min-height: 75%;
 }
-
+.menu {
+    display: none;
+}
 </style>
 </head><body>
 
