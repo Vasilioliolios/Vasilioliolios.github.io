@@ -126,7 +126,7 @@ body, html {
 <div class="w3-container" id="where" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
     <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">Where to find me.</span></h5>
-    <p>You can find me on the street, or you could just contact me.</p>
+    <p>I like to tell myself I'm approachable, so please feel free to contact me.</p>
     <img src="w3images/nycanime.png" class="w3-image" style="width:100%">
     <p><span class="w3-tag"></span></p>
     <p><strong></strong></p>
@@ -145,7 +145,7 @@ body, html {
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+
 </footer>
 
 <script>
