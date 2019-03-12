@@ -14,9 +14,7 @@ body, html {
     background-image: url("w3images/coffelaptop.jpeg");
     min-height: 75%;
 }
-.menu {
-    display: none;
-}
+
 </style>
 </head><body>
 
@@ -96,7 +94,7 @@ body, html {
       <p class="w3-text-grey">I am very confident in my ability of javascript, and do enjoy learning new things.</p><br>
 
       <h5>PHP and Ajax</h5>
-      <p class="w3-text-grey">Pursuing to increase my usage of PHP, I only have a basic level of PHP.</p><br>
+      <p class="w3-text-grey">Pursuing to increase my usage of PHP, I only have a basic level of PHP and Ajax.</p><br>
 
       <h5>jQuery</h5>
       <p class="w3-text-grey">A good foundation because of my usage of javascript.</p>
