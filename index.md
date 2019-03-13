@@ -43,8 +43,8 @@ body, html {
 <div class="w3-container" id="about">
   <div class="w3-content" style="max-width:700px">
     <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">About Me</span></h5>
-    <p>My name is Vasilios Kostakis, I was born in the summer of 1993, in Flushing NY.  My interest for programming came from a young age, but it was not until I was older that I acted on these interests.  I am decently fresh when it comes to the coding world,  but I have a fervor in constatnly learning new things and increase the tools on my belt.</p>
-    <p>The current languages that I am comfortable with and know are for web development, but I do not plan to stop there and only to expand my horizons.  I have many goals, but one goal is to hopefully be able to use my knowledge in the game industry.</p>
+    <p>My name is Vasilios Kostakis, I was born in the summer of 1993, in Flushing NY.  My interest for programming came from a young age, but it was not until I was older that I acted on these interests.  I am decently new when it comes to the coding world,  but I have a fervor in constanly learning new things and increase the tools on my belt.</p>
+    <p>The current languages that I am comfortable with and know are for web development, but I do not plan to stop there and only to expand my horizons.  I have many goals, but one of my primary goals is to hopefully be able to use my knowledge in the game industry.</p>
     <div class="w3-panel w3-leftbar w3-light-grey">
       <p><i>"There is nothing permanent, except change." </i></p>
       <p>Heraclitus of Ephesus</p>
